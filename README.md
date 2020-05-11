@@ -9,6 +9,7 @@ Welcome new users with maintainer defined comments the first time your users:
 - Open a new pull request
 - Merge their first pull request
 
+
 ## Getting started
 
 1. [Install the bot](https://github.com/apps/welcome) on the intended repositories. The plugin requires the following **Permissions and Events**:
